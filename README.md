@@ -1,2 +1,2 @@
 # python-Blackjack
-my solution to the udemy python bootcamp blackjack project
+my solutions to various python projects found in udemy python bootcamp
