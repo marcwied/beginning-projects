@@ -1,3 +1,6 @@
+"""
+Black Jack Game.  1 Player
+"""
 import random
 
 # Declare Suits, Rank, assign values to rank
