@@ -1,5 +1,5 @@
 """
-Returns specified number of deimal places for pi
+Returns specified number of decimal places for pi
 """
 
 
