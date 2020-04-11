@@ -1,3 +1,8 @@
+"""
+Takes in a whole number and returns its Prime Factors 
+"""
+
+
 def list_factors(n):                                    # function to create a list of factors for a given number(n)
     factors = []                                        # starts with empty list[factors]
     for x in range(1, n+1):                             # loops through range of 1 through (given number + 1)
